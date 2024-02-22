@@ -1,0 +1,11 @@
+PAA5100			KEYWORD1
+
+begin			KEYWORD2
+isMotion		KEYWORD2
+readMotion		KEYWORD2
+frameCapture	KEYWORD2
+deltaX			KEYWORD2 
+deltaY			KEYWORD2
+productID		KEYWORD2
+revisionID		KEYWORD2
+
